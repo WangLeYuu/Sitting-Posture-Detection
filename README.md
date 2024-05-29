@@ -88,6 +88,9 @@ Let's set the y3 coordinate of kpt3 to 0, and the coordinate values we input inc
 $$\theta =\arccos (\frac{y_{1}^{2} - y_{1}\times y_{2}  }{y_{1}\sqrt{(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2} } })$$
 
 
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+
 According to the above figure, $\theta$ is an acute angle. If the vector direction is from kpt2 to kpt1, point kpt3 needs to be marked in the vertical direction of kpt2. At this point, $\theta$ is an obtuse angle.
 
 ## Usage
