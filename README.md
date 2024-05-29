@@ -75,17 +75,13 @@ The location information is as follows:
 The calculation of internal angles is related to the starting and ending order of the vector. In the above figure, assuming that kpt1 and kpt2 are selected as the two key points of the human body, and kpt3 is the starting point of the vector, which is any point in the vertical direction of kpt1, the included angle is:
 
 
-
 $$\theta =\arccos (\frac{\overrightarrow{P_{12} } \times \overrightarrow{P_{13} } }{\left | \overrightarrow{P_{12} } \right | \left | \overrightarrow{P_{13} } \right | } )$$
-
 
 
 Let's set the y3 coordinate of kpt3 to 0, and the coordinate values we input include:
 
 
-
 $$\theta =\arccos (\frac{y_{1}^{2} - y_{1}\times y_{2}  }{y_{1}\sqrt{(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2} } })$$
-
 
 
 According to the above figure, $\theta$ is an acute angle. If the vector direction is from kpt2 to kpt1, point kpt3 needs to be marked in the vertical direction of kpt2. At this point, $\theta$ is an obtuse angle.
