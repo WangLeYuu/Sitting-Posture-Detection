@@ -75,9 +75,12 @@ The location information is as follows:
 The calculation of internal angles is related to the starting and ending order of the vector. In the above figure, assuming that kpt1 and kpt2 are selected as the two key points of the human body, and kpt3 is the starting point of the vector, which is any point in the vertical direction of kpt1, the included angle is:
 
 
-$$\theta =\arccos (\frac{\overrightarrow{P_{12} } \times \overrightarrow{P_{13} } }{\left | \overrightarrow{P_{12} } \right | \left | \overrightarrow{P_{13} } \right | } )$$
 
-![](http://latex.codecogs.com/svg.latex?\theta =\arccos (\frac{\overrightarrow{P_{12} } \times \overrightarrow{P_{13} } }{\left | \overrightarrow{P_{12} } \right | \left | \overrightarrow{P_{13} } \right | } ))
+$$
+\theta =\arccos (\frac{\overrightarrow{P_{12} } \times \overrightarrow{P_{13} } }{\left | \overrightarrow{P_{12} } \right | \left | \overrightarrow{P_{13} } \right | } )
+$$
+
+
 
 Let's set the y3 coordinate of kpt3 to 0, and the coordinate values we input include:
 
