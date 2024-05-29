@@ -84,7 +84,7 @@ Let's set the y3 coordinate of kpt3 to 0, and the coordinate values we input inc
 
 
 
-$$\theta =\arccos (\frac{y_{1}^{2} - y_{1}\times y_{2}  }{y_{1}\sqrt{(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2} } } )$$
+$$\theta =\arccos (\frac{y_{1}^{2} - y_{1}\times y_{2}  }{y_{1}\sqrt{(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2} } })$$
 
 
 
