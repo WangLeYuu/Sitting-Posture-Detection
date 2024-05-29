@@ -76,7 +76,7 @@ The calculation of internal angles is related to the starting and ending order o
 
 
 
-$$ \theta =\arccos (\frac{\overrightarrow{P_{12} } \times \overrightarrow{P_{13} } }{\left | \overrightarrow{P_{12} } \right | \left | \overrightarrow{P_{13} } \right | } ) $$
+$$\theta =\arccos (\frac{\overrightarrow{P_{12} } \times \overrightarrow{P_{13} } }{\left | \overrightarrow{P_{12} } \right | \left | \overrightarrow{P_{13} } \right | } )$$
 
 
 
@@ -84,7 +84,7 @@ Let's set the y3 coordinate of kpt3 to 0, and the coordinate values we input inc
 
 
 
-$$ \theta =\arccos (\frac{y_{1}^{2} - y_{1}\times y_{2}  }{y_{1}\sqrt{(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2} } } ) $$
+$$\theta =\arccos (\frac{y_{1}^{2} - y_{1}\times y_{2}  }{y_{1}\sqrt{(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2} } } )$$
 
 
 
